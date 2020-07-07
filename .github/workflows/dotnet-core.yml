@@ -14,7 +14,7 @@ jobs:
     - name: Build with dotnet
       run: dotnet build --configuration Release
     - name: Publish Blazor webassembly using dotnet
-      run: dotnet publish -c Release --no-build -o ./../College_Display
+      run: dotnet publish -c Release --no-build -o ./../College_Display/dist
     - name: Publish generated Blazor webassembly to Netlify
       uses: netlify/actions/cli@master
       env:
