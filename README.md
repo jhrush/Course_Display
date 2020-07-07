@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e00560c5-ae59-4dac-876d-72344ecc490d/deploy-status)](https://app.netlify.com/sites/tech5ca/deploys)
+
 # Tech-Exercise-Part-5-Continuous-Integration-and-Deployment
 <h1>Blazor & Netlify Tech Exercise!</h1>
 
